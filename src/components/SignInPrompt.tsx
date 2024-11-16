@@ -11,10 +11,10 @@ export default function SignInPrompt() {
             <LogIn size={32} className="text-blue-600 dark:text-blue-400" />
           </div>
           <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">
-            Welcome to TodoApp
+            Welcome to Taskable
           </h2>
           <p className="text-gray-600 dark:text-gray-400 mb-8">
-            Sign in to create and manage your todo lists across all your devices.
+            Sign in to create and manage your todo lists across all your devices!
           </p>
           <SignInButton mode="modal">
             <button className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors w-full">
